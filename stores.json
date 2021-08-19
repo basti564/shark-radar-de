@@ -1,0 +1,161 @@
+[
+    {
+        "value": "113",
+        "name": "Belfast",
+        "storeAddress": {
+            "address": "Holywood Exchange, 306 Airport RD W",
+            "cityName": "Belfast"
+        }
+    },
+    {
+        "value": "264",
+        "name": "Bristol",
+        "storeAddress": {
+            "address": "Eastgate Road, Eastville",
+            "cityName": "Bristol"
+        }
+    },
+    {
+        "value": "267",
+        "name": "Cardiff",
+        "storeAddress": {
+            "address": "Ferry Road, Grangetown",
+            "cityName": "Cardiff"
+        }
+    },
+    {
+        "value": "144",
+        "name": "Croydon",
+        "storeAddress": {
+            "address": "Access via Hesterman Way",
+            "cityName": "Croydon"
+        }
+    },
+    {
+        "value": "548",
+        "name": "Exeter",
+        "storeAddress": {
+            "address": "1 IKEA WAY, off Newcourt Way",
+            "cityName": "Exeter"
+        }
+    },
+    {
+        "value": "143",
+        "name": "Gateshead",
+        "storeAddress": {
+            "address": "Metro Park West",
+            "cityName": "Gateshead, Tyne & Wear"
+        }
+    },
+    {
+        "value": "567",
+        "name": "Greenwich",
+        "storeAddress": {
+            "address": "55-57 Bugsby's Way",
+            "cityName": "London, Greenwich"
+        }
+    },
+    {
+        "value": "261",
+        "name": "Leeds",
+        "storeAddress": {
+            "address": "Holden Ing Way",
+            "cityName": "Birstall, Batley"
+        }
+    },
+    {
+        "value": "186",
+        "name": "Manchester",
+        "storeAddress": {
+            "address": "110 Wellington Road",
+            "cityName": "Greater Manchester"
+        }
+    },
+    {
+        "value": "185",
+        "name": "Milton Keynes",
+        "storeAddress": {
+            "address": "Goslington, Off Bletcham Way",
+            "cityName": "Milton Keynes"
+        }
+    },
+    {
+        "value": "263",
+        "name": "Nottingham",
+        "storeAddress": {
+            "address": "Ikea Way, Giltbrook",
+            "cityName": "Nottingham"
+        }
+    },
+    {
+        "value": "461",
+        "name": "Reading",
+        "storeAddress": {
+            "address": "Pincents Kiln Industrial Pk, Theale",
+            "cityName": "Reading"
+        }
+    },
+    {
+        "value": "519",
+        "name": "Sheffield",
+        "storeAddress": { "address": "Sheffield Road", "cityName": "Tinsley" }
+    },
+    {
+        "value": "125",
+        "name": "Southampton",
+        "storeAddress": {
+            "address": "West Quay Road",
+            "cityName": "Southhampton"
+        }
+    },
+    {
+        "value": "255",
+        "name": "Tottenham",
+        "storeAddress": { "address": "Glover Drive", "cityName": "Edmonton" }
+    },
+    {
+        "value": "140",
+        "name": "Warrington",
+        "storeAddress": {
+            "address": "910 Europe Boulevard",
+            "cityName": "Warrington"
+        }
+    },
+    {
+        "value": "266",
+        "name": "Glasgow",
+        "storeAddress": {
+            "address": "99 Kings Inch Drive",
+            "cityName": "Glasgow"
+        }
+    },
+    {
+        "value": "265",
+        "name": "Edinburgh",
+        "storeAddress": {
+            "address": "Costkea way, Loanhead",
+            "cityName": "Edinburgh, Midlothian"
+        }
+    },
+    {
+        "value": "262",
+        "name": "Lakeside",
+        "storeAddress": {
+            "address": "Heron Way, Lakeside",
+            "cityName": "Essex"
+        }
+    },
+    {
+        "value": "142",
+        "name": "Birmingham",
+        "storeAddress": {
+            "address": "Park Lane, Wednesbury",
+            "cityName": "West Midlands"
+        }
+    },
+    {
+        "value": "141",
+        "name": "Wembley",
+        "storeAddress": { "address": "2 Drury Way", "cityName": "London" }
+    }
+]
