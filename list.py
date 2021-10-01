@@ -2,7 +2,7 @@ import json
 import colorama
 import requests
 
-with open("stores.json") as f:
+with open("stores.json", encoding='utf-8') as f:
     # Parsed from (search for "allStores=["):
     # https://www.ikea.com/de/de/products/javascripts/range-stockcheck.422cfd6afe912b35d7b3.js
     stores = json.load(f)
