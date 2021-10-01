@@ -69,7 +69,7 @@ def main():
 
     print("Fetching BLÅHAJ listings…\n")
 
-    availabilities = requests.get("https://api.ingka.ikea.com/cia/availabilities/ru/gb?itemNos=30373588&expand=StoresList,Restocks,SalesLocations", headers={
+    availabilities = requests.get("https://api.ingka.ikea.com/cia/availabilities/ru/de?itemNos=30373588&expand=StoresList,Restocks,SalesLocations", headers={
         "Accept": "application/json;version=2",
         "X-Client-ID": "b6c117e5-ae61-4ef5-b4cc-e0b1e37f0631"
     })
