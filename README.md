@@ -1,3 +1,13 @@
-# shark radar
+# shark radar (DE edition)
+where are the cuddlies at?
 
-where are the cuddlies at? (DE only :<)
+## How To
+### Install Python
+Install Python 3 for your OS: https://www.python.org/downloads/
+### Install Dependancies
+`pip install requests`
+### Run It
+Navigate to the folder you've downloaded `cd path/to/shark-radar-de` and run the list.py script with python `python list.py`.
+
+## Credit
+Originally made by [Charlotte Som](https://github.com/videogame-hacker), but modified by [me](https://github.com/basti564) to support german IKEA stores.
