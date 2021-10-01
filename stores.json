@@ -1,161 +1,393 @@
-[
-    {
-        "value": "113",
-        "name": "Belfast",
-        "storeAddress": {
-            "address": "Holywood Exchange, 306 Airport RD W",
-            "cityName": "Belfast"
-        }
-    },
-    {
-        "value": "264",
-        "name": "Bristol",
-        "storeAddress": {
-            "address": "Eastgate Road, Eastville",
-            "cityName": "Bristol"
-        }
-    },
-    {
-        "value": "267",
-        "name": "Cardiff",
-        "storeAddress": {
-            "address": "Ferry Road, Grangetown",
-            "cityName": "Cardiff"
-        }
-    },
-    {
-        "value": "144",
-        "name": "Croydon",
-        "storeAddress": {
-            "address": "Access via Hesterman Way",
-            "cityName": "Croydon"
-        }
-    },
-    {
-        "value": "548",
-        "name": "Exeter",
-        "storeAddress": {
-            "address": "1 IKEA WAY, off Newcourt Way",
-            "cityName": "Exeter"
-        }
-    },
-    {
-        "value": "143",
-        "name": "Gateshead",
-        "storeAddress": {
-            "address": "Metro Park West",
-            "cityName": "Gateshead, Tyne & Wear"
-        }
-    },
-    {
-        "value": "567",
-        "name": "Greenwich",
-        "storeAddress": {
-            "address": "55-57 Bugsby's Way",
-            "cityName": "London, Greenwich"
-        }
-    },
-    {
-        "value": "261",
-        "name": "Leeds",
-        "storeAddress": {
-            "address": "Holden Ing Way",
-            "cityName": "Birstall, Batley"
-        }
-    },
-    {
-        "value": "186",
-        "name": "Manchester",
-        "storeAddress": {
-            "address": "110 Wellington Road",
-            "cityName": "Greater Manchester"
-        }
-    },
-    {
-        "value": "185",
-        "name": "Milton Keynes",
-        "storeAddress": {
-            "address": "Goslington, Off Bletcham Way",
-            "cityName": "Milton Keynes"
-        }
-    },
-    {
-        "value": "263",
-        "name": "Nottingham",
-        "storeAddress": {
-            "address": "Ikea Way, Giltbrook",
-            "cityName": "Nottingham"
-        }
-    },
-    {
-        "value": "461",
-        "name": "Reading",
-        "storeAddress": {
-            "address": "Pincents Kiln Industrial Pk, Theale",
-            "cityName": "Reading"
-        }
-    },
-    {
-        "value": "519",
-        "name": "Sheffield",
-        "storeAddress": { "address": "Sheffield Road", "cityName": "Tinsley" }
-    },
-    {
-        "value": "125",
-        "name": "Southampton",
-        "storeAddress": {
-            "address": "West Quay Road",
-            "cityName": "Southhampton"
-        }
-    },
-    {
-        "value": "255",
-        "name": "Tottenham",
-        "storeAddress": { "address": "Glover Drive", "cityName": "Edmonton" }
-    },
-    {
-        "value": "140",
-        "name": "Warrington",
-        "storeAddress": {
-            "address": "910 Europe Boulevard",
-            "cityName": "Warrington"
-        }
-    },
-    {
-        "value": "266",
-        "name": "Glasgow",
-        "storeAddress": {
-            "address": "99 Kings Inch Drive",
-            "cityName": "Glasgow"
-        }
-    },
-    {
-        "value": "265",
-        "name": "Edinburgh",
-        "storeAddress": {
-            "address": "Costkea way, Loanhead",
-            "cityName": "Edinburgh, Midlothian"
-        }
-    },
-    {
-        "value": "262",
-        "name": "Lakeside",
-        "storeAddress": {
-            "address": "Heron Way, Lakeside",
-            "cityName": "Essex"
-        }
-    },
-    {
-        "value": "142",
-        "name": "Birmingham",
-        "storeAddress": {
-            "address": "Park Lane, Wednesbury",
-            "cityName": "West Midlands"
-        }
-    },
-    {
-        "value": "141",
-        "name": "Wembley",
-        "storeAddress": { "address": "2 Drury Way", "cityName": "London" }
+[{
+    "value": "066",
+    "name": "Augsburg",
+    "storeAddress": {
+        "address": "Otto-Hahn-Straße 99",
+        "cityName": "Gersthofen"
     }
-]
+}, {
+    "value": "324",
+    "name": "Berlin-Lichtenberg",
+    "storeAddress": {
+        "address": "Landsberger Allee 364",
+        "cityName": "Berlin, Lichtenberg"
+    }
+}, {
+    "value": "394",
+    "name": "Berlin-Spandau",
+    "storeAddress": {
+        "address": "Gewerbehof 10",
+        "cityName": "Berlin - Spandau"
+    }
+}, {
+    "value": "421",
+    "name": "Berlin-Tempelhof",
+    "storeAddress": {
+        "address": "Sachsendamm 47",
+        "cityName": "Berlin,Tempelhof"
+    }
+}, {
+    "value": "129",
+    "name": "Berlin-Waltersdorf",
+    "storeAddress": {
+        "address": "Airport Center, Am Rondell 8",
+        "cityName": "Schönefeld"
+    }
+}, {
+    "value": "119",
+    "name": "Bielefeld",
+    "storeAddress": {
+        "address": "Südring 7",
+        "cityName": "Bielefeld"
+    }
+}, {
+    "value": "117",
+    "name": "Braunschweig",
+    "storeAddress": {
+        "address": "Hansestraße 27",
+        "cityName": "Braunschweig"
+    }
+}, {
+    "value": "412",
+    "name": "Bremerhaven",
+    "storeAddress": {
+        "address": "Weserstrasse 1i",
+        "cityName": "Bremerhaven"
+    }
+}, {
+    "value": "228",
+    "name": "Brinkum",
+    "storeAddress": {
+        "address": "Henleinstraße 1A",
+        "cityName": "Brinkum"
+    }
+}, {
+    "value": "118",
+    "name": "Chemnitz",
+    "storeAddress": {
+        "address": "Im Neefepark 5",
+        "cityName": "Chemnitz"
+    }
+}, {
+    "value": "223",
+    "name": "Dortmund",
+    "storeAddress": {
+        "address": "Borussiastraße 120",
+        "cityName": "Dortmund"
+    }
+}, {
+    "value": "221",
+    "name": "Dresden",
+    "storeAddress": {
+        "address": "Peschelstraße 25",
+        "cityName": "Dresden"
+    }
+}, {
+    "value": "425",
+    "name": "Duisburg",
+    "storeAddress": {
+        "address": "Beecker Straße 80",
+        "cityName": "Duisburg"
+    }
+}, {
+    "value": "321",
+    "name": "Düsseldorf",
+    "storeAddress": {
+        "address": "Oerschbachstraße 75",
+        "cityName": "Düsseldorf"
+    }
+}, {
+    "value": "396",
+    "name": "Erfurt",
+    "storeAddress": {
+        "address": "Eisenacher Straße 50",
+        "cityName": "Erfurt"
+    }
+}, {
+    "value": "148",
+    "name": "Essen",
+    "storeAddress": {
+        "address": "Altendorfer Strasse 2",
+        "cityName": "Essen"
+    }
+}, {
+    "value": "393",
+    "name": "Frankfurt",
+    "storeAddress": {
+        "address": "Züricher Straße 7",
+        "cityName": "Frankfurt, Niedereschbach"
+    }
+}, {
+    "value": "320",
+    "name": "Freiburg",
+    "storeAddress": {
+        "address": "Hermann-Mitsch-Straße 61",
+        "cityName": "Freiburg"
+    }
+}, {
+    "value": "326",
+    "name": "Fürth",
+    "storeAddress": {
+        "address": "Hans-Vogel-Straße 110",
+        "cityName": "Fürth"
+    }
+}, {
+    "value": "226",
+    "name": "Großburgwedel",
+    "storeAddress": {
+        "address": "Isernhägener Straße 14",
+        "cityName": "Burgwedel, Hannover"
+    }
+}, {
+    "value": "139",
+    "name": "Halle/Leipzig",
+    "storeAddress": {
+        "address": "Saalepark, Nordpark 17",
+        "cityName": "Leuna"
+    }
+}, {
+    "value": "245",
+    "name": "Hamburg-Altona",
+    "storeAddress": {
+        "address": "Grosse Bergstrasse 164",
+        "cityName": "Hamburg-Altona"
+    }
+}, {
+    "value": "325",
+    "name": "Hamburg-Moorfleet",
+    "storeAddress": {
+        "address": "Unterer Landweg 77",
+        "cityName": "Hamburg, Moorfleet"
+    }
+}, {
+    "value": "146",
+    "name": "Hamburg-Schnelsen",
+    "storeAddress": {
+        "address": "Wunderbrunnen 1",
+        "cityName": "Hamburg, Schnelsen"
+    }
+}, {
+    "value": "222",
+    "name": "Hanau",
+    "storeAddress": {
+        "address": "Oderstraße 21",
+        "cityName": "Hanau"
+    }
+}, {
+    "value": "187",
+    "name": "Hannover EXPO-Park",
+    "storeAddress": {
+        "address": "Straße der Nationen 10",
+        "cityName": "Hannover"
+    }
+}, {
+    "value": "494",
+    "name": "Kaarst",
+    "storeAddress": {
+        "address": "Hans-Dietrich-Genscher-Strasse 1",
+        "cityName": "Kaarst"
+    }
+}, {
+    "value": "430",
+    "name": "Kaiserslautern",
+    "storeAddress": {
+        "address": "Opelkreisel 3",
+        "cityName": "Kaiserslautern"
+    }
+}, {
+    "value": "323",
+    "name": "Kamen",
+    "storeAddress": {
+        "address": "Kamen Karree 1",
+        "cityName": "Kamen"
+    }
+}, {
+    "value": "551",
+    "name": "Karlsruhe",
+    "storeAddress": {
+        "address": "Durlacher Allee 97",
+        "cityName": "Karlsruhe"
+    }
+}, {
+    "value": "174",
+    "name": "Kassel",
+    "storeAddress": {
+        "address": "Heinrich-Hertz-Straße 25",
+        "cityName": "Kassel"
+    }
+}, {
+    "value": "333",
+    "name": "Kiel",
+    "storeAddress": {
+        "address": "Westring 1",
+        "cityName": "Kiel"
+    }
+}, {
+    "value": "332",
+    "name": "Koblenz",
+    "storeAddress": {
+        "address": "An der Römervilla 1",
+        "cityName": "Koblenz"
+    }
+}, {
+    "value": "102",
+    "name": "Köln-Am Butzweilerhof",
+    "storeAddress": {
+        "address": "Butzweilerstraße 51",
+        "cityName": "Köln"
+    }
+}, {
+    "value": "147",
+    "name": "Köln-Godorf",
+    "storeAddress": {
+        "address": "Godorfer Hauptstraße 171",
+        "cityName": "Köln"
+    }
+}, {
+    "value": "289",
+    "name": "Lübeck",
+    "storeAddress": {
+        "address": "Daenischburger Landstrasse 79-81",
+        "cityName": "Luebeck"
+    }
+}, {
+    "value": "225",
+    "name": "Ludwigsburg",
+    "storeAddress": {
+        "address": "Heinkelstraße 10",
+        "cityName": "Ludwigsburg"
+    }
+}, {
+    "value": "520",
+    "name": "Magdeburg",
+    "storeAddress": {
+        "address": "Ebendorfer Chaussee 70",
+        "cityName": "Magdeburg"
+    }
+}, {
+    "value": "397",
+    "name": "Mannheim",
+    "storeAddress": {
+        "address": "Frankenthaler Straße 123",
+        "cityName": "Mannheim"
+    }
+}, {
+    "value": "343",
+    "name": "München-Brunnthal",
+    "storeAddress": {
+        "address": "Brunnthaler Straße 1",
+        "cityName": "Taufkirchen"
+    }
+}, {
+    "value": "063",
+    "name": "München-Eching",
+    "storeAddress": {
+        "address": "Heisenbergstraße 14",
+        "cityName": "Eching"
+    }
+}, {
+    "value": "069",
+    "name": "Oldenburg",
+    "storeAddress": {
+        "address": "Holler Landstrasse 89",
+        "cityName": "Oldenburg"
+    }
+}, {
+    "value": "184",
+    "name": "Osnabrück",
+    "storeAddress": {
+        "address": "Rheiner Landstraße 215",
+        "cityName": "Osnabrück"
+    }
+}, {
+    "value": "653",
+    "name": "Pankow Breite Str",
+    "storeAddress": {
+        "address": "Breite Strasse 33-34",
+        "cityName": "Berlin"
+    }
+}, {
+    "value": "617",
+    "name": "Potsdam",
+    "storeAddress": {
+        "address": "Brandenburger Strasse 5",
+        "cityName": "Potsdam"
+    }
+}, {
+    "value": "229",
+    "name": "Regensburg",
+    "storeAddress": {
+        "address": "Sulzfeldstraße 7",
+        "cityName": "Regensburg"
+    }
+}, {
+    "value": "092",
+    "name": "Rostock",
+    "storeAddress": {
+        "address": "Messestraße 25",
+        "cityName": "Rostock"
+    }
+}, {
+    "value": "227",
+    "name": "Saarlouis",
+    "storeAddress": {
+        "address": "Im Hader 1-3",
+        "cityName": "Saarlouis"
+    }
+}, {
+    "value": "369",
+    "name": "Siegen",
+    "storeAddress": {
+        "address": "Wallhausenstraße 60",
+        "cityName": "Siegen"
+    }
+}, {
+    "value": "224",
+    "name": "Sindelfingen",
+    "storeAddress": {
+        "address": "Hanns-Martin-Schleyer-Straße 2",
+        "cityName": "Sindelfingen"
+    }
+}, {
+    "value": "328",
+    "name": "Ulm",
+    "storeAddress": {
+        "address": "Blaubeurer Straße 10",
+        "cityName": "Ulm"
+    }
+}, {
+    "value": "322",
+    "name": "Wallau",
+    "storeAddress": {
+        "address": "Am Wandersmann 2-4",
+        "cityName": "Hofheim-Wallau"
+    }
+}, {
+    "value": "075",
+    "name": "Walldorf",
+    "storeAddress": {
+        "address": "Josef-Reiert-Straße 9",
+        "cityName": "Walldorf"
+    }
+}, {
+    "value": "493",
+    "name": "Wetzlar",
+    "storeAddress": {
+        "address": "Hermannsteiner Strasse 13",
+        "cityName": "Wetzlar"
+    }
+}, {
+    "value": "492",
+    "name": "Wuppertal",
+    "storeAddress": {
+        "address": "Schmiedestrasse 81",
+        "cityName": "Wuppertal"
+    }
+}, {
+    "value": "124",
+    "name": "Würzburg",
+    "storeAddress": {
+        "address": "Mainfrankenhöhe 2",
+        "cityName": "Würzburg"
+    }
+}]
