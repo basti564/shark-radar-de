@@ -1,3 +1,3 @@
 # shark radar
 
-where are the cuddlies at? (UK only :<)
+where are the cuddlies at? (DE only :<)
