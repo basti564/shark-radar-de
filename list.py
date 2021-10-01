@@ -17,12 +17,14 @@ def calculate_stock(availability):
 
     store_name = store_name[0]
 
-    availability_info = availability["buyingOption"]["cashCarry"]["availability"]
-    quantity = int(availability_info["quantity"])
-
     next_restock = None
-    if "restocks" in availability_info:
-        next_restock = availability_info["restocks"][0]
+    try:
+        availability_info = availability["buyingOption"]["cashCarry"]["availability"]
+        quantity = int(availability_info["quantity"])
+        if "restocks" in availability_info:
+            next_restock = availability_info["restocks"][0]
+    except KeyError:
+        quantity = 0
 
     return {
         "store": store_name,
