@@ -10,4 +10,4 @@ Install Python 3 for your OS: https://www.python.org/downloads/
 Navigate to the folder you've downloaded `cd path/to/shark-radar-de` and run the list.py script with python `python list.py`.
 
 ## Credit
-Originally made by [Charlotte Som](https://github.com/videogame-hacker), but modified by [me](https://github.com/basti564) to support german IKEA stores.
+[Originally](https://git.lavender.software/charlotte/shark-radar) made by [Charlotte Som](https://github.com/videogame-hacker), but modified by [me](https://github.com/basti564) to support german IKEA stores.
